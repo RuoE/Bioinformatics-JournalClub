@@ -1,2 +1,2 @@
-# CompBio-Bioinfor
-Journal Club Arrangement 
+# Bioinformatics Journal Club
+---
