@@ -5,7 +5,7 @@
 
 
 ## Arrangements
-### 2021-6-20
+### 2021-7-10
 * Presenter : Yihai Luo
 * Ariticle Title : Genome-wide detection of enhancer-hijacking events from chromatin interaction data in rearranged genomes
 * Field : 3D genome
